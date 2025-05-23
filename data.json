@@ -1,8 +1,8 @@
 {
   "Version": "1.3.6",
-  "BinaryURL": "https://files.catbox.moe/u1udil.zip",
+  "BinaryURL": "https://files.catbox.moe/0jmnwo.zip",
   "Hashes": {
-    "Injector": "0e678474d61fea0a607f4fa33a545c9e5fd821d3f23231a654a96d53a9847df6",
+    "Injector": "ec69cce969b315ea779cd0fc9202ab9dca4f77d08de5a7e5e054e488397e0534",
     "Module": "0ee569edc2b7c01a0d0eb259737e904270c2fe5db2111dc436945f31fbdf88cd",
     "Interface": "ef12d7c8167d4fe2d79a8faf27c2c681801e1d72f7ee2c8836ee665a78390a50"
   }
