@@ -1,9 +1,9 @@
 {
-  "Version": "1.3.6",
-  "BinaryURL": "https://files.catbox.moe/0jmnwo.zip",
+  "Version": "1.3.7",
+  "BinaryURL": "https://files.catbox.moe/8s9xa8.zip",
   "Hashes": {
-    "Injector": "ec69cce969b315ea779cd0fc9202ab9dca4f77d08de5a7e5e054e488397e0534",
-    "Module": "0ee569edc2b7c01a0d0eb259737e904270c2fe5db2111dc436945f31fbdf88cd",
+    "Injector": "5b408b67b2575c9c4da9b239e9816408a663b8ed652bc858c2eae0449e67e8e4",
+    "Module": "89b9d6c7b770297c10a79fb846ed95554df1d866ac1591559e1870ad635ca49c",
     "Interface": "ef12d7c8167d4fe2d79a8faf27c2c681801e1d72f7ee2c8836ee665a78390a50"
   }
 }
