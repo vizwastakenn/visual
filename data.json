@@ -1,9 +1,9 @@
 {
-  "Version": "2.0.2",
-  "BinaryURL": "https://files.catbox.moe/0t9con.zip",
+  "Version": "2.0.3",
+  "BinaryURL": "https://files.catbox.moe/5okmx1.zip",
   "Hashes": {
-    "Injector": "52b805112f99a0abaf7ac0cf07fcc42f926cab46f9be7808f7bfdae37c9d72ed",
-    "Module": "b5e3e694de1e0add08b55eca8521b247a9d10cd1f182c467adf77c2fca9596a9",
-    "Interface": "5b177ecce0ed7d0e92ed6ec7205f4774622fb0ea86d90e442f74f5e379737e5f"
+    "Injector": "ae1cfeb0384f631289f5468f2b758716c97b77d01fd77955a1563eba99e30112",
+    "Module": "d6c0130b3d26bb5994e78ac9623b305c88e11a295433d879f2745b73bb4b1440",
+    "Interface": "22626c09128e7909425b863fba6e86f9f4534f7e457a2d7d598b6bcf1cf6bb51"
   }
 }
