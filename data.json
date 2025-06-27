@@ -1,9 +1,9 @@
 {
-  "Version": "2.0.4",
-  "BinaryURL": "https://files.catbox.moe/m1lmms.zip",
+  "Version": "2.0.5",
+  "BinaryURL": "https://files.catbox.moe/shev6o.zip",
   "Hashes": {
     "Injector": "326d05405ef63d5930fce20bb649c5d3d047343d20418a54f86ac5f0b5c884af",
-    "Module": "2de7b9dcca7bb33ec05b9f9a86990b4f5834099220759b1a75bf3154ad34acc9",
-    "Interface": "7998572fa3a4a9098ecde8fa2f748977808b6dd46fda9c105279b14b8276a8eb"
+    "Module": "8db345344e82cd76bc2b0ad0fd120342d1a7d02f9d45ff20368837f1b80b1b1f",
+    "Interface": "5cecc83a48c7776159e876aaaa8a6514521ab1e88da18d74d2f50084013a5450"
   }
 }
