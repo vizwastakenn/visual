@@ -1,9 +1,9 @@
 {
-  "Version": "2.0.5",
-  "BinaryURL": "https://files.catbox.moe/p4g4um.zip",
+  "Version": "2.0.6",
+  "BinaryURL": "https://files.catbox.moe/gmqchd.zip",
   "Hashes": {
     "Injector": "326d05405ef63d5930fce20bb649c5d3d047343d20418a54f86ac5f0b5c884af",
-    "Module": "326d05405ef63d5930fce20bb649c5d3d047343d20418a54f86ac5f0b5c884af",
-    "Interface": "5cecc83a48c7776159e876aaaa8a6514521ab1e88da18d74d2f50084013a5450"
+    "Module": "d784ee9754dd686ae841e6d5e180c04192e416fdd1a0f4784cfda141e777d23e",
+    "Interface": "2b41e8ae4953236929b643135e158474e4cbb538d11b4842c5bcc896f9481ebb"
   }
 }
